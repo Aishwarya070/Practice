@@ -1,0 +1,5 @@
+git init- to create empty repo
+git config --global user.name "   "  -->  to configure/ create the user name
+git config --global user.email "  "  --> to create / configure the user email id
+git config --list -> to list the cteated user details
+git config --global --unset user.name "Aishu" --> To del the user name/ email
